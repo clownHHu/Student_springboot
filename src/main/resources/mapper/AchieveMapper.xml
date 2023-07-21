@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<!-- 映射的mapper层-->
+<mapper namespace="com.example.demo.mapper.AchieveMapper">
+
+    <select id="getAllAchieve" resultType="com.example.demo.model.Achieve">
+        select * from achieve where id=#{id}
+    </select>
+
+    <insert id="insertAchieve" parameterType="com.example.demo.model.Achieve">
+        insert into achieve(achid,id,time,context,state,path) values(#{achieve.achid},#{achieve.id},#{achieve.time},#{achieve.context},#{achieve.state},#{achieve.path})
+    </insert>
+
+</mapper>

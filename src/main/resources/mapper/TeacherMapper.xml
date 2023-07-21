@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.example.demo.mapper.TeacherMapper" >
+    <select id="selectTeacherById" parameterType="string" resultType="com.example.demo.model.Teacher">
+        select * from teacher where id=#{id}
+    </select>
+    <update id="modifyAvatarById" parameterType="string" >
+        update teacher set avatar=#{path} where id=#{id}
+    </update>
+    <update id="modifyTeacher" parameterType="com.example.demo.model.Teacher">
+        update teacher set name=#{teacher.name},title=#{teacher.title},college=#{teacher.college},
+                           date=#{teacher.date},marriage=#{teacher.marriage},sex=#{teacher.sex},polstatus=#{teacher.polstatus},
+                           nativeplace=#{teacher.nativeplace},phone=#{teacher.phone},
+                           location=#{teacher.location},avatar=#{teacher.avatar} where id=#{teacher.id}
+    </update>
+    <select id="selectRelationById" parameterType="string" resultType="com.example.demo.model.Relation">
+        select * from relation where teaid=#{id}
+    </select>
+    <select id="selectTeacherByName" parameterType="string" resultType="com.example.demo.model.Teacher">
+        select * from teacher where name=#{name}
+    </select>
+    <select id="selectAchieveByIT" parameterType="String" resultType="com.example.demo.model.Achieve">
+        select * from achieve where id=#{id} and time=#{time}
+    </select>
+    <insert id="insertAchieve" parameterType="com.example.demo.model.Achieve">
+        insert into achieve(achid,id,time,context,state,path) values(#{achieve.achid},#{achieve.id},#{achieve.time},#{achieve.context},#{achieve.state},#{achieve.path})
+    </insert>
+</mapper>

@@ -1,0 +1,19 @@
+2022-10-02 14:41:26 [ main:686 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 357668 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-02 14:41:26 [ main:688 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-02 14:41:27 [ main:1699 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-02 14:41:27 [ main:1707 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-02 14:41:27 [ main:1707 ] - [ INFO ] Starting service [Tomcat]
+2022-10-02 14:41:27 [ main:1708 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-02 14:41:27 [ main:1819 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-02 14:41:27 [ main:1819 ] - [ INFO ] Root WebApplicationContext: initialization completed in 1090 ms
+2022-10-02 14:41:28 [ main:2456 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-02 14:41:28 [ main:2533 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-02 14:41:28 [ main:2551 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-02 14:41:28 [ main:2561 ] - [ INFO ] Started DemoApplication in 2.375 seconds (JVM running for 3.632)
+2022-10-02 14:42:03 [ http-nio-8090-exec-1:37834 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-02 14:42:03 [ http-nio-8090-exec-1:37834 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-02 14:42:03 [ http-nio-8090-exec-1:37835 ] - [ INFO ] Completed initialization in 1 ms
+2022-10-02 14:42:03 [ http-nio-8090-exec-1:37962 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-02 14:42:04 [ http-nio-8090-exec-1:38354 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-02 15:04:01 [ SpringApplicationShutdownHook:1355767 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-02 15:04:01 [ SpringApplicationShutdownHook:1355779 ] - [ INFO ] HikariPool-1 - Shutdown completed.

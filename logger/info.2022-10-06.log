@@ -1,0 +1,1064 @@
+2022-10-06 00:01:51 [ http-nio-8090-exec-1:208125 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 00:01:51 [ http-nio-8090-exec-1:208126 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 00:01:51 [ http-nio-8090-exec-1:208127 ] - [ INFO ] Completed initialization in 1 ms
+2022-10-06 00:01:51 [ http-nio-8090-exec-2:208169 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 00:01:51 [ http-nio-8090-exec-2:208367 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 00:11:45 [ SpringApplicationShutdownHook:802333 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 00:11:45 [ SpringApplicationShutdownHook:802368 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 00:11:49 [ main:539 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 655736 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 00:11:49 [ main:541 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 00:11:49 [ main:1303 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 00:11:50 [ main:1310 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 00:11:50 [ main:1311 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 00:11:50 [ main:1311 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 00:11:50 [ main:1393 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 00:11:50 [ main:1393 ] - [ INFO ] Root WebApplicationContext: initialization completed in 817 ms
+2022-10-06 00:11:50 [ main:1891 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 00:11:50 [ main:1951 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 00:11:50 [ main:1965 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 00:11:50 [ main:1972 ] - [ INFO ] Started DemoApplication in 1.807 seconds (JVM running for 2.866)
+2022-10-06 00:11:55 [ http-nio-8090-exec-2:7218 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 00:11:55 [ http-nio-8090-exec-2:7219 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 00:11:55 [ http-nio-8090-exec-2:7219 ] - [ INFO ] Completed initialization in 0 ms
+2022-10-06 00:11:55 [ http-nio-8090-exec-4:7269 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 00:11:55 [ http-nio-8090-exec-3:7304 ] - [ WARN ] Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'flag' for method parameter type int is not present]
+2022-10-06 00:11:56 [ http-nio-8090-exec-4:7495 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 00:12:14 [ SpringApplicationShutdownHook:25634 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 00:12:14 [ SpringApplicationShutdownHook:25643 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 00:12:19 [ main:525 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 640932 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 00:12:19 [ main:527 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 00:12:20 [ main:1336 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 00:12:20 [ main:1343 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 00:12:20 [ main:1343 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 00:12:20 [ main:1343 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 00:12:20 [ main:1429 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 00:12:20 [ main:1429 ] - [ INFO ] Root WebApplicationContext: initialization completed in 865 ms
+2022-10-06 00:12:20 [ main:1957 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 00:12:20 [ main:2025 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 00:12:20 [ main:2041 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 00:12:20 [ main:2049 ] - [ INFO ] Started DemoApplication in 1.907 seconds (JVM running for 3.094)
+2022-10-06 00:12:24 [ http-nio-8090-exec-2:5559 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 00:12:24 [ http-nio-8090-exec-2:5559 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 00:12:24 [ http-nio-8090-exec-2:5560 ] - [ INFO ] Completed initialization in 1 ms
+2022-10-06 00:12:24 [ http-nio-8090-exec-4:5613 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 00:12:24 [ http-nio-8090-exec-3:5647 ] - [ WARN ] Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'flag' for method parameter type String is not present]
+2022-10-06 00:12:24 [ http-nio-8090-exec-4:5844 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 00:13:22 [ http-nio-8090-exec-7:64157 ] - [ WARN ] Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'flag' for method parameter type String is not present]
+2022-10-06 00:14:10 [ SpringApplicationShutdownHook:111667 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 00:14:10 [ SpringApplicationShutdownHook:111678 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 00:14:15 [ main:514 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 81308 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 00:14:15 [ main:516 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 00:14:15 [ main:1290 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 00:14:15 [ main:1296 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 00:14:15 [ main:1297 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 00:14:15 [ main:1297 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 00:14:15 [ main:1384 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 00:14:16 [ main:1385 ] - [ INFO ] Root WebApplicationContext: initialization completed in 834 ms
+2022-10-06 00:14:16 [ main:1902 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 00:14:16 [ main:1965 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 00:14:16 [ main:1980 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 00:14:16 [ main:1987 ] - [ INFO ] Started DemoApplication in 1.836 seconds (JVM running for 2.826)
+2022-10-06 00:14:20 [ http-nio-8090-exec-1:5441 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 00:14:20 [ http-nio-8090-exec-1:5441 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 00:14:20 [ http-nio-8090-exec-1:5442 ] - [ INFO ] Completed initialization in 1 ms
+2022-10-06 00:14:20 [ http-nio-8090-exec-4:5493 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 00:18:38 [ http-nio-8090-exec-4:263715 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 00:18:38 [ SpringApplicationShutdownHook:263943 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 00:18:38 [ SpringApplicationShutdownHook:263965 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 00:18:43 [ main:536 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 413964 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 00:18:43 [ main:537 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 00:18:43 [ main:1362 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 00:18:43 [ main:1369 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 00:18:43 [ main:1370 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 00:18:43 [ main:1370 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 00:18:44 [ main:1451 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 00:18:44 [ main:1451 ] - [ INFO ] Root WebApplicationContext: initialization completed in 879 ms
+2022-10-06 00:18:44 [ main:1954 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 00:18:44 [ main:2014 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 00:18:44 [ main:2028 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 00:18:44 [ main:2035 ] - [ INFO ] Started DemoApplication in 1.876 seconds (JVM running for 3.003)
+2022-10-06 00:18:49 [ http-nio-8090-exec-1:6394 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 00:18:49 [ http-nio-8090-exec-1:6394 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 00:18:49 [ http-nio-8090-exec-1:6395 ] - [ INFO ] Completed initialization in 1 ms
+2022-10-06 00:18:49 [ http-nio-8090-exec-4:6446 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 00:18:49 [ http-nio-8090-exec-3:6476 ] - [ WARN ] Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Cannot deserialize value of type `[Lcom.example.demo.model.Student;` from Object value (token `JsonToken.START_OBJECT`); nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot deserialize value of type `[Lcom.example.demo.model.Student;` from Object value (token `JsonToken.START_OBJECT`)<EOL> at [Source: (org.springframework.util.StreamUtils$NonClosingInputStream); line: 1, column: 1]]
+2022-10-06 00:18:49 [ http-nio-8090-exec-4:6674 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 00:19:24 [ SpringApplicationShutdownHook:42253 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 00:19:24 [ SpringApplicationShutdownHook:42271 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 00:19:29 [ main:510 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 339772 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 00:19:29 [ main:512 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 00:19:30 [ main:1303 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 00:19:30 [ main:1309 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 00:19:30 [ main:1310 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 00:19:30 [ main:1310 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 00:19:30 [ main:1395 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 00:19:30 [ main:1395 ] - [ INFO ] Root WebApplicationContext: initialization completed in 849 ms
+2022-10-06 00:19:30 [ main:1898 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 00:19:30 [ main:1958 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 00:19:30 [ main:1972 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 00:19:30 [ main:1980 ] - [ INFO ] Started DemoApplication in 1.847 seconds (JVM running for 2.805)
+2022-10-06 00:19:41 [ http-nio-8090-exec-2:12289 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 00:19:41 [ http-nio-8090-exec-2:12289 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 00:19:41 [ http-nio-8090-exec-2:12290 ] - [ INFO ] Completed initialization in 1 ms
+2022-10-06 00:19:41 [ http-nio-8090-exec-4:12342 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 00:28:55 [ http-nio-8090-exec-4:566104 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 00:28:55 [ SpringApplicationShutdownHook:566324 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 00:28:55 [ SpringApplicationShutdownHook:566340 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 00:29:00 [ main:438 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 471400 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 00:29:00 [ main:440 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 00:29:01 [ main:1160 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 00:29:01 [ main:1166 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 00:29:01 [ main:1166 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 00:29:01 [ main:1166 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 00:29:01 [ main:1246 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 00:29:01 [ main:1246 ] - [ INFO ] Root WebApplicationContext: initialization completed in 773 ms
+2022-10-06 00:29:01 [ main:1660 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 00:29:01 [ main:1721 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 00:29:01 [ main:1734 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 00:29:01 [ main:1741 ] - [ INFO ] Started DemoApplication in 1.636 seconds (JVM running for 2.504)
+2022-10-06 00:29:08 [ http-nio-8090-exec-1:8924 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 00:29:08 [ http-nio-8090-exec-1:8925 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 00:29:08 [ http-nio-8090-exec-1:8925 ] - [ INFO ] Completed initialization in 0 ms
+2022-10-06 00:29:08 [ http-nio-8090-exec-4:8969 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 00:29:09 [ http-nio-8090-exec-4:9174 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 00:29:30 [ SpringApplicationShutdownHook:30757 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 00:29:30 [ SpringApplicationShutdownHook:30773 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 00:29:34 [ main:620 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 285924 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 00:29:34 [ main:622 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 00:29:35 [ main:1432 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 00:29:35 [ main:1439 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 00:29:35 [ main:1439 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 00:29:35 [ main:1439 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 00:29:35 [ main:1525 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 00:29:35 [ main:1526 ] - [ INFO ] Root WebApplicationContext: initialization completed in 870 ms
+2022-10-06 00:29:35 [ main:2034 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 00:29:35 [ main:2101 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 00:29:35 [ main:2115 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 00:29:35 [ main:2123 ] - [ INFO ] Started DemoApplication in 1.923 seconds (JVM running for 3.247)
+2022-10-06 00:29:36 [ http-nio-8090-exec-2:2294 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 00:29:36 [ http-nio-8090-exec-2:2294 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 00:29:36 [ http-nio-8090-exec-2:2294 ] - [ INFO ] Completed initialization in 0 ms
+2022-10-06 00:29:36 [ http-nio-8090-exec-6:2346 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 00:30:13 [ http-nio-8090-exec-6:39389 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 00:30:30 [ SpringApplicationShutdownHook:57025 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 00:30:30 [ SpringApplicationShutdownHook:57031 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 00:30:34 [ main:441 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 329456 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 00:30:34 [ main:443 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 00:30:35 [ main:1220 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 00:30:35 [ main:1227 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 00:30:35 [ main:1228 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 00:30:35 [ main:1228 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 00:30:35 [ main:1309 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 00:30:35 [ main:1309 ] - [ INFO ] Root WebApplicationContext: initialization completed in 834 ms
+2022-10-06 00:30:36 [ main:1721 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 00:30:36 [ main:1779 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 00:30:36 [ main:1791 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 00:30:36 [ main:1798 ] - [ INFO ] Started DemoApplication in 1.672 seconds (JVM running for 2.589)
+2022-10-06 00:31:24 [ main:432 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 352776 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 00:31:24 [ main:434 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 00:31:25 [ main:1156 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 00:31:25 [ main:1162 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 00:31:25 [ main:1162 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 00:31:25 [ main:1162 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 00:31:25 [ main:1239 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 00:31:25 [ main:1239 ] - [ INFO ] Root WebApplicationContext: initialization completed in 769 ms
+2022-10-06 00:31:26 [ main:1643 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 00:31:26 [ main:1699 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 00:31:26 [ main:1713 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 00:31:26 [ main:1720 ] - [ INFO ] Started DemoApplication in 1.611 seconds (JVM running for 2.401)
+2022-10-06 00:31:36 [ http-nio-8090-exec-1:12450 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 00:31:36 [ http-nio-8090-exec-1:12450 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 00:31:36 [ http-nio-8090-exec-1:12451 ] - [ INFO ] Completed initialization in 1 ms
+2022-10-06 00:31:36 [ http-nio-8090-exec-2:12496 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 00:31:37 [ http-nio-8090-exec-2:12700 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 00:36:55 [ http-nio-8090-exec-6:330819 ] - [ WARN ] Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2022-10-06 00:50:31 [ SpringApplicationShutdownHook:1146944 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 00:50:31 [ SpringApplicationShutdownHook:1146950 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 00:50:35 [ main:446 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 411564 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 00:50:35 [ main:448 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 00:50:36 [ main:1176 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 00:50:36 [ main:1181 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 00:50:36 [ main:1182 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 00:50:36 [ main:1182 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 00:50:36 [ main:1258 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 00:50:36 [ main:1258 ] - [ INFO ] Root WebApplicationContext: initialization completed in 779 ms
+2022-10-06 00:50:36 [ main:1670 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 00:50:36 [ main:1726 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 00:50:36 [ main:1738 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 00:50:36 [ main:1745 ] - [ INFO ] Started DemoApplication in 1.638 seconds (JVM running for 2.513)
+2022-10-06 00:50:40 [ http-nio-8090-exec-1:5855 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 00:50:40 [ http-nio-8090-exec-1:5855 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 00:50:40 [ http-nio-8090-exec-1:5855 ] - [ INFO ] Completed initialization in 0 ms
+2022-10-06 00:50:40 [ http-nio-8090-exec-3:5898 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 00:50:41 [ http-nio-8090-exec-3:6110 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 00:55:08 [ SpringApplicationShutdownHook:273489 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 00:55:08 [ SpringApplicationShutdownHook:273496 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 00:55:13 [ main:461 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 660928 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 00:55:13 [ main:463 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 00:55:13 [ main:1254 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 00:55:13 [ main:1261 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 00:55:13 [ main:1261 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 00:55:13 [ main:1261 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 00:55:14 [ main:1342 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 00:55:14 [ main:1342 ] - [ INFO ] Root WebApplicationContext: initialization completed in 846 ms
+2022-10-06 00:55:14 [ main:1768 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 00:55:14 [ main:1834 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 00:55:14 [ main:1847 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 00:55:14 [ main:1855 ] - [ INFO ] Started DemoApplication in 1.736 seconds (JVM running for 2.717)
+2022-10-06 00:55:21 [ http-nio-8090-exec-1:8479 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 00:55:21 [ http-nio-8090-exec-1:8479 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 00:55:21 [ http-nio-8090-exec-1:8480 ] - [ INFO ] Completed initialization in 1 ms
+2022-10-06 00:55:21 [ http-nio-8090-exec-2:8541 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 00:55:21 [ http-nio-8090-exec-2:8798 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 00:56:21 [ SpringApplicationShutdownHook:69271 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 00:56:21 [ SpringApplicationShutdownHook:69280 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 00:56:24 [ main:418 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 434260 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 00:56:24 [ main:420 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 00:56:25 [ main:1126 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 00:56:25 [ main:1132 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 00:56:25 [ main:1132 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 00:56:25 [ main:1132 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 00:56:25 [ main:1208 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 00:56:25 [ main:1209 ] - [ INFO ] Root WebApplicationContext: initialization completed in 758 ms
+2022-10-06 00:56:25 [ main:1605 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 00:56:26 [ main:1662 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 00:56:26 [ main:1674 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 00:56:26 [ main:1681 ] - [ INFO ] Started DemoApplication in 1.574 seconds (JVM running for 2.483)
+2022-10-06 00:56:38 [ http-nio-8090-exec-1:14548 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 00:56:38 [ http-nio-8090-exec-1:14548 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 00:56:38 [ http-nio-8090-exec-1:14548 ] - [ INFO ] Completed initialization in 0 ms
+2022-10-06 00:56:38 [ http-nio-8090-exec-2:14593 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 00:56:39 [ http-nio-8090-exec-2:14802 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 00:57:08 [ SpringApplicationShutdownHook:43946 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 00:57:08 [ SpringApplicationShutdownHook:43953 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 00:57:10 [ main:432 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 431168 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 00:57:10 [ main:434 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 00:57:11 [ main:1146 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 00:57:11 [ main:1152 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 00:57:11 [ main:1153 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 00:57:11 [ main:1153 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 00:57:11 [ main:1236 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 00:57:11 [ main:1236 ] - [ INFO ] Root WebApplicationContext: initialization completed in 770 ms
+2022-10-06 00:57:12 [ main:1632 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 00:57:12 [ main:1687 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 00:57:12 [ main:1700 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 00:57:12 [ main:1706 ] - [ INFO ] Started DemoApplication in 1.6 seconds (JVM running for 2.477)
+2022-10-06 00:57:20 [ http-nio-8090-exec-1:9953 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 00:57:20 [ http-nio-8090-exec-1:9953 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 00:57:20 [ http-nio-8090-exec-1:9954 ] - [ INFO ] Completed initialization in 0 ms
+2022-10-06 00:57:20 [ http-nio-8090-exec-2:9999 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 00:57:20 [ http-nio-8090-exec-2:10203 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 01:02:23 [ SpringApplicationShutdownHook:313255 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 01:02:23 [ SpringApplicationShutdownHook:313262 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 01:02:27 [ main:435 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 451148 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 01:02:27 [ main:437 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 01:02:28 [ main:1147 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 01:02:28 [ main:1153 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 01:02:28 [ main:1154 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 01:02:28 [ main:1154 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 01:02:28 [ main:1234 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 01:02:28 [ main:1234 ] - [ INFO ] Root WebApplicationContext: initialization completed in 767 ms
+2022-10-06 01:02:29 [ main:1635 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 01:02:29 [ main:1689 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 01:02:29 [ main:1701 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 01:02:29 [ main:1708 ] - [ INFO ] Started DemoApplication in 1.597 seconds (JVM running for 2.382)
+2022-10-06 01:02:32 [ http-nio-8090-exec-4:5036 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 01:02:32 [ http-nio-8090-exec-4:5036 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 01:02:32 [ http-nio-8090-exec-4:5036 ] - [ INFO ] Completed initialization in 0 ms
+2022-10-06 01:02:32 [ http-nio-8090-exec-1:5078 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 01:02:32 [ http-nio-8090-exec-1:5273 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 01:32:55 [ SpringApplicationShutdownHook:1828453 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 01:32:55 [ SpringApplicationShutdownHook:1828464 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 01:34:07 [ main:654 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 110152 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 01:34:07 [ main:656 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 01:34:08 [ main:1444 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 01:34:08 [ main:1451 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 01:34:08 [ main:1452 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 01:34:08 [ main:1452 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 01:34:08 [ main:1537 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 01:34:08 [ main:1537 ] - [ INFO ] Root WebApplicationContext: initialization completed in 847 ms
+2022-10-06 01:34:09 [ main:2084 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 01:34:09 [ main:2161 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 01:34:09 [ main:2179 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 01:34:09 [ main:2187 ] - [ INFO ] Started DemoApplication in 1.95 seconds (JVM running for 3.131)
+2022-10-06 01:34:11 [ http-nio-8090-exec-1:4338 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 01:34:11 [ http-nio-8090-exec-1:4338 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 01:34:11 [ http-nio-8090-exec-1:4339 ] - [ INFO ] Completed initialization in 1 ms
+2022-10-06 01:34:11 [ http-nio-8090-exec-2:4389 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 01:34:11 [ http-nio-8090-exec-2:4614 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 01:35:03 [ HikariPool-1 housekeeper:56968 ] - [ WARN ] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=52s221ms930µs500ns).
+2022-10-06 01:35:04 [ SpringApplicationShutdownHook:57390 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 01:35:04 [ SpringApplicationShutdownHook:57397 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 12:35:54 [ main:625 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 8156 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 12:35:54 [ main:640 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 12:35:55 [ main:1594 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 12:35:55 [ main:1594 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 12:35:55 [ main:1594 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 12:35:55 [ main:1594 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 12:35:55 [ main:1703 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 12:35:55 [ main:1703 ] - [ INFO ] Root WebApplicationContext: initialization completed in 1031 ms
+2022-10-06 12:35:56 [ main:2312 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 12:35:56 [ main:2391 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 12:35:56 [ main:2406 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 12:35:56 [ main:2406 ] - [ INFO ] Started DemoApplication in 2.235 seconds (JVM running for 4.058)
+2022-10-06 12:38:00 [ http-nio-8090-exec-1:127029 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 12:38:00 [ http-nio-8090-exec-1:127029 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 12:38:00 [ http-nio-8090-exec-1:127030 ] - [ INFO ] Completed initialization in 1 ms
+2022-10-06 12:38:00 [ http-nio-8090-exec-1:127147 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 12:38:01 [ http-nio-8090-exec-1:127507 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 12:38:30 [ SpringApplicationShutdownHook:157101 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 12:38:30 [ SpringApplicationShutdownHook:157117 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 12:38:35 [ main:567 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 18500 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 12:38:35 [ main:569 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 12:38:36 [ main:1392 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 12:38:36 [ main:1399 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 12:38:36 [ main:1400 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 12:38:36 [ main:1400 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 12:38:36 [ main:1484 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 12:38:36 [ main:1484 ] - [ INFO ] Root WebApplicationContext: initialization completed in 875 ms
+2022-10-06 12:38:37 [ main:2013 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 12:38:37 [ main:2077 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 12:38:37 [ main:2091 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 12:38:37 [ main:2099 ] - [ INFO ] Started DemoApplication in 1.947 seconds (JVM running for 2.845)
+2022-10-06 12:38:37 [ http-nio-8090-exec-1:2224 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 12:38:37 [ http-nio-8090-exec-1:2225 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 12:38:37 [ http-nio-8090-exec-1:2226 ] - [ INFO ] Completed initialization in 1 ms
+2022-10-06 12:38:37 [ http-nio-8090-exec-2:2275 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 12:38:37 [ http-nio-8090-exec-2:2487 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 12:55:45 [ HikariPool-1 housekeeper:1030314 ] - [ WARN ] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m6s160ms592µs500ns).
+2022-10-06 12:55:45 [ SpringApplicationShutdownHook:1030621 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 12:55:45 [ SpringApplicationShutdownHook:1030625 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 12:55:49 [ main:408 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 16960 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 12:55:49 [ main:410 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 12:55:50 [ main:1089 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 12:55:50 [ main:1094 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 12:55:50 [ main:1095 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 12:55:50 [ main:1095 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 12:55:50 [ main:1169 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 12:55:50 [ main:1169 ] - [ INFO ] Root WebApplicationContext: initialization completed in 728 ms
+2022-10-06 12:55:51 [ main:1565 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 12:55:51 [ main:1620 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 12:55:51 [ main:1632 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 12:55:51 [ main:1639 ] - [ INFO ] Started DemoApplication in 1.534 seconds (JVM running for 2.293)
+2022-10-06 12:55:54 [ http-nio-8090-exec-1:5371 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 12:55:54 [ http-nio-8090-exec-1:5371 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 12:55:54 [ http-nio-8090-exec-1:5372 ] - [ INFO ] Completed initialization in 1 ms
+2022-10-06 12:55:54 [ http-nio-8090-exec-1:5410 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 12:55:55 [ http-nio-8090-exec-1:5601 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 13:00:32 [ SpringApplicationShutdownHook:282938 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 13:00:32 [ SpringApplicationShutdownHook:282957 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 13:00:36 [ main:515 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 7120 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 13:00:36 [ main:517 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 13:00:37 [ main:1276 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 13:00:37 [ main:1282 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 13:00:37 [ main:1283 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 13:00:37 [ main:1283 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 13:00:37 [ main:1373 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 13:00:37 [ main:1374 ] - [ INFO ] Root WebApplicationContext: initialization completed in 821 ms
+2022-10-06 13:00:38 [ main:1892 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 13:00:38 [ main:1959 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 13:00:38 [ main:1973 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 13:00:38 [ main:1981 ] - [ INFO ] Started DemoApplication in 1.848 seconds (JVM running for 2.67)
+2022-10-06 13:00:47 [ http-nio-8090-exec-1:11754 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 13:00:47 [ http-nio-8090-exec-1:11754 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 13:00:47 [ http-nio-8090-exec-1:11755 ] - [ INFO ] Completed initialization in 1 ms
+2022-10-06 13:00:47 [ http-nio-8090-exec-1:11805 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 13:00:48 [ http-nio-8090-exec-1:12027 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 13:28:07 [ HikariPool-1 housekeeper:1651472 ] - [ WARN ] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=22m49s283ms741µs200ns).
+2022-10-06 13:28:07 [ SpringApplicationShutdownHook:1651782 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 13:28:07 [ SpringApplicationShutdownHook:1651800 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 13:28:13 [ main:445 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 1624 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 13:28:13 [ main:448 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 13:28:14 [ main:1159 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 13:28:14 [ main:1166 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 13:28:14 [ main:1166 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 13:28:14 [ main:1166 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 13:28:14 [ main:1247 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 13:28:14 [ main:1247 ] - [ INFO ] Root WebApplicationContext: initialization completed in 753 ms
+2022-10-06 13:28:14 [ main:1668 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 13:28:14 [ main:1727 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 13:28:14 [ main:1738 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 13:28:14 [ main:1746 ] - [ INFO ] Started DemoApplication in 1.638 seconds (JVM running for 2.402)
+2022-10-06 13:30:43 [ http-nio-8090-exec-1:150482 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 13:30:43 [ http-nio-8090-exec-1:150482 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 13:30:43 [ http-nio-8090-exec-1:150482 ] - [ INFO ] Completed initialization in 0 ms
+2022-10-06 13:30:43 [ http-nio-8090-exec-1:150557 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 13:30:43 [ http-nio-8090-exec-1:150760 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 13:33:18 [ SpringApplicationShutdownHook:305929 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 13:33:18 [ SpringApplicationShutdownHook:305958 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 13:33:21 [ main:458 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 10328 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 13:33:21 [ main:460 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 13:33:22 [ main:1164 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 13:33:22 [ main:1170 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 13:33:22 [ main:1170 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 13:33:22 [ main:1171 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 13:33:22 [ main:1256 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 13:33:22 [ main:1256 ] - [ INFO ] Root WebApplicationContext: initialization completed in 763 ms
+2022-10-06 13:33:22 [ main:1654 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 13:33:22 [ main:1710 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 13:33:22 [ main:1723 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 13:33:22 [ main:1730 ] - [ INFO ] Started DemoApplication in 1.615 seconds (JVM running for 2.498)
+2022-10-06 13:33:31 [ http-nio-8090-exec-1:10414 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 13:33:31 [ http-nio-8090-exec-1:10415 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 13:33:31 [ http-nio-8090-exec-1:10415 ] - [ INFO ] Completed initialization in 0 ms
+2022-10-06 13:33:31 [ http-nio-8090-exec-2:10458 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 13:33:31 [ http-nio-8090-exec-2:10658 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 13:33:41 [ SpringApplicationShutdownHook:20315 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 13:33:41 [ SpringApplicationShutdownHook:20319 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 13:33:44 [ main:485 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 2172 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 13:33:44 [ main:487 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 13:33:45 [ main:1251 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 13:33:45 [ main:1258 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 13:33:45 [ main:1258 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 13:33:45 [ main:1258 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 13:33:45 [ main:1339 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 13:33:45 [ main:1339 ] - [ INFO ] Root WebApplicationContext: initialization completed in 818 ms
+2022-10-06 13:33:46 [ main:1841 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 13:33:46 [ main:1899 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 13:33:46 [ main:1913 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 13:33:46 [ main:1920 ] - [ INFO ] Started DemoApplication in 1.79 seconds (JVM running for 2.794)
+2022-10-06 13:33:53 [ http-nio-8090-exec-1:9508 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 13:33:53 [ http-nio-8090-exec-1:9508 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 13:33:53 [ http-nio-8090-exec-1:9508 ] - [ INFO ] Completed initialization in 0 ms
+2022-10-06 13:34:05 [ http-nio-8090-exec-2:21265 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 13:34:05 [ http-nio-8090-exec-2:21486 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 13:34:05 [ SpringApplicationShutdownHook:21679 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 13:34:05 [ SpringApplicationShutdownHook:21688 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 13:34:10 [ main:422 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 16212 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 13:34:10 [ main:423 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 13:34:10 [ main:1194 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 13:34:10 [ main:1200 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 13:34:10 [ main:1201 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 13:34:10 [ main:1201 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 13:34:11 [ main:1290 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 13:34:11 [ main:1291 ] - [ INFO ] Root WebApplicationContext: initialization completed in 836 ms
+2022-10-06 13:34:11 [ main:1718 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 13:34:11 [ main:1776 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 13:34:11 [ main:1789 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 13:34:11 [ main:1796 ] - [ INFO ] Started DemoApplication in 1.682 seconds (JVM running for 2.47)
+2022-10-06 13:34:57 [ http-nio-8090-exec-1:47927 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 13:34:57 [ http-nio-8090-exec-1:47927 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 13:34:57 [ http-nio-8090-exec-1:47928 ] - [ INFO ] Completed initialization in 1 ms
+2022-10-06 13:34:57 [ http-nio-8090-exec-2:47972 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 13:34:57 [ http-nio-8090-exec-2:48176 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 13:49:10 [ SpringApplicationShutdownHook:900397 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 13:49:10 [ SpringApplicationShutdownHook:900407 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 13:49:14 [ main:455 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 8180 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 13:49:14 [ main:457 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 13:49:15 [ main:1243 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 13:49:15 [ main:1250 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 13:49:15 [ main:1251 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 13:49:15 [ main:1251 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 13:49:15 [ main:1336 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 13:49:15 [ main:1336 ] - [ INFO ] Root WebApplicationContext: initialization completed in 848 ms
+2022-10-06 13:49:15 [ main:1771 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 13:49:15 [ main:1826 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 13:49:15 [ main:1838 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 13:49:15 [ main:1846 ] - [ INFO ] Started DemoApplication in 1.735 seconds (JVM running for 2.597)
+2022-10-06 13:52:22 [ http-nio-8090-exec-1:188725 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 13:52:22 [ http-nio-8090-exec-1:188725 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 13:52:22 [ http-nio-8090-exec-1:188726 ] - [ INFO ] Completed initialization in 1 ms
+2022-10-06 13:52:22 [ http-nio-8090-exec-2:188768 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 13:52:23 [ http-nio-8090-exec-2:188964 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 13:54:23 [ SpringApplicationShutdownHook:309758 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 13:54:23 [ SpringApplicationShutdownHook:309763 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 13:54:26 [ main:420 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 18052 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 13:54:26 [ main:421 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 13:54:27 [ main:1125 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 13:54:27 [ main:1131 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 13:54:27 [ main:1132 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 13:54:27 [ main:1132 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 13:54:27 [ main:1211 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 13:54:27 [ main:1211 ] - [ INFO ] Root WebApplicationContext: initialization completed in 759 ms
+2022-10-06 13:54:27 [ main:1641 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 13:54:28 [ main:1698 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 13:54:28 [ main:1710 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 13:54:28 [ main:1717 ] - [ INFO ] Started DemoApplication in 1.61 seconds (JVM running for 2.469)
+2022-10-06 13:54:49 [ http-nio-8090-exec-1:23176 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 13:54:49 [ http-nio-8090-exec-1:23176 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 13:54:49 [ http-nio-8090-exec-1:23177 ] - [ INFO ] Completed initialization in 1 ms
+2022-10-06 13:54:49 [ http-nio-8090-exec-2:23221 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 13:54:49 [ http-nio-8090-exec-2:23419 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 14:25:59 [ SpringApplicationShutdownHook:1893019 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 14:25:59 [ SpringApplicationShutdownHook:1893034 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 14:26:02 [ main:518 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 11356 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 14:26:02 [ main:520 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 14:26:03 [ main:1320 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 14:26:03 [ main:1328 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 14:26:03 [ main:1328 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 14:26:03 [ main:1328 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 14:26:03 [ main:1414 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 14:26:03 [ main:1414 ] - [ INFO ] Root WebApplicationContext: initialization completed in 860 ms
+2022-10-06 14:26:04 [ main:1912 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 14:26:04 [ main:1977 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 14:26:04 [ main:1991 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 14:26:04 [ main:1999 ] - [ INFO ] Started DemoApplication in 1.857 seconds (JVM running for 2.754)
+2022-10-06 14:26:15 [ http-nio-8090-exec-1:13212 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 14:26:15 [ http-nio-8090-exec-1:13212 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 14:26:15 [ http-nio-8090-exec-1:13213 ] - [ INFO ] Completed initialization in 1 ms
+2022-10-06 14:26:15 [ http-nio-8090-exec-2:13260 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 14:26:15 [ http-nio-8090-exec-2:13473 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 14:27:02 [ HikariPool-1 housekeeper:60438 ] - [ WARN ] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=46s854ms24µs).
+2022-10-06 14:43:13 [ HikariPool-1 housekeeper:1030720 ] - [ WARN ] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m2s723ms917µs400ns).
+2022-10-06 14:48:36 [ HikariPool-1 housekeeper:1354326 ] - [ WARN ] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m10s62ms679µs200ns).
+2022-10-06 14:49:52 [ HikariPool-1 housekeeper:1430325 ] - [ WARN ] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m30s365ms949µs).
+2022-10-06 14:51:13 [ HikariPool-1 housekeeper:1510777 ] - [ WARN ] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m20s453ms44µs299ns).
+2022-10-06 14:51:13 [ SpringApplicationShutdownHook:1511076 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 14:51:13 [ SpringApplicationShutdownHook:1511081 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 14:51:16 [ main:602 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 9724 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 14:51:16 [ main:604 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 14:51:16 [ main:1395 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 14:51:16 [ main:1402 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 14:51:16 [ main:1403 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 14:51:16 [ main:1403 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 14:51:16 [ main:1488 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 14:51:16 [ main:1488 ] - [ INFO ] Root WebApplicationContext: initialization completed in 847 ms
+2022-10-06 14:51:17 [ main:1970 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 14:51:17 [ main:2031 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 14:51:17 [ main:2044 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 14:51:17 [ main:2052 ] - [ INFO ] Started DemoApplication in 1.826 seconds (JVM running for 2.933)
+2022-10-06 14:51:22 [ http-nio-8090-exec-1:6622 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 14:51:22 [ http-nio-8090-exec-1:6622 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 14:51:22 [ http-nio-8090-exec-1:6623 ] - [ INFO ] Completed initialization in 1 ms
+2022-10-06 14:51:22 [ http-nio-8090-exec-2:6671 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 14:51:22 [ http-nio-8090-exec-2:6888 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 14:51:55 [ HikariPool-1 housekeeper:39969 ] - [ WARN ] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m3s81ms762µs701ns).
+2022-10-06 14:52:35 [ SpringApplicationShutdownHook:80365 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 14:52:35 [ SpringApplicationShutdownHook:80371 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 14:52:38 [ main:485 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 12148 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 14:52:38 [ main:487 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 14:52:39 [ main:1258 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 14:52:39 [ main:1265 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 14:52:39 [ main:1265 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 14:52:39 [ main:1265 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 14:52:39 [ main:1347 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 14:52:39 [ main:1347 ] - [ INFO ] Root WebApplicationContext: initialization completed in 826 ms
+2022-10-06 14:52:40 [ main:1853 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 14:52:40 [ main:1915 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 14:52:40 [ main:1928 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 14:52:40 [ main:1935 ] - [ INFO ] Started DemoApplication in 1.808 seconds (JVM running for 2.709)
+2022-10-06 14:52:41 [ http-nio-8090-exec-1:3436 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 14:52:41 [ http-nio-8090-exec-1:3436 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 14:52:41 [ http-nio-8090-exec-1:3437 ] - [ INFO ] Completed initialization in 1 ms
+2022-10-06 14:52:41 [ http-nio-8090-exec-1:3485 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 14:52:42 [ http-nio-8090-exec-1:3707 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 14:55:09 [ HikariPool-1 housekeeper:150614 ] - [ WARN ] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m22s803ms980µs500ns).
+2022-10-06 14:56:41 [ HikariPool-1 housekeeper:243543 ] - [ WARN ] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m49s229ms671µs800ns).
+2022-10-06 14:56:42 [ SpringApplicationShutdownHook:243846 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 14:56:42 [ SpringApplicationShutdownHook:243856 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 14:56:46 [ main:457 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 10088 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 14:56:46 [ main:459 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 14:56:47 [ main:1158 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 14:56:47 [ main:1164 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 14:56:47 [ main:1164 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 14:56:47 [ main:1164 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 14:56:47 [ main:1240 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 14:56:47 [ main:1240 ] - [ INFO ] Root WebApplicationContext: initialization completed in 747 ms
+2022-10-06 14:56:48 [ main:1674 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 14:56:48 [ main:1726 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 14:56:48 [ main:1738 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 14:56:48 [ main:1744 ] - [ INFO ] Started DemoApplication in 1.631 seconds (JVM running for 2.407)
+2022-10-06 14:56:51 [ http-nio-8090-exec-1:4567 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 14:56:51 [ http-nio-8090-exec-1:4567 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 14:56:51 [ http-nio-8090-exec-1:4567 ] - [ INFO ] Completed initialization in 0 ms
+2022-10-06 14:56:51 [ http-nio-8090-exec-2:4609 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 14:56:51 [ http-nio-8090-exec-2:4800 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 15:08:55 [ SpringApplicationShutdownHook:728594 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 15:08:55 [ SpringApplicationShutdownHook:728602 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 15:08:59 [ main:403 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 4288 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 15:08:59 [ main:405 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 15:09:00 [ main:1085 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 15:09:00 [ main:1091 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 15:09:00 [ main:1091 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 15:09:00 [ main:1091 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 15:09:00 [ main:1171 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 15:09:00 [ main:1171 ] - [ INFO ] Root WebApplicationContext: initialization completed in 734 ms
+2022-10-06 15:09:00 [ main:1554 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 15:09:00 [ main:1610 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 15:09:00 [ main:1622 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 15:09:00 [ main:1629 ] - [ INFO ] Started DemoApplication in 1.525 seconds (JVM running for 2.27)
+2022-10-06 15:09:13 [ http-nio-8090-exec-1:14128 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 15:09:13 [ http-nio-8090-exec-1:14129 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 15:09:13 [ http-nio-8090-exec-1:14129 ] - [ INFO ] Completed initialization in 0 ms
+2022-10-06 15:09:13 [ http-nio-8090-exec-2:14173 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 15:09:13 [ http-nio-8090-exec-2:14373 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 15:09:50 [ SpringApplicationShutdownHook:52024 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 15:09:50 [ SpringApplicationShutdownHook:52030 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 15:09:54 [ main:487 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 13420 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 15:09:54 [ main:489 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 15:09:54 [ main:1256 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 15:09:54 [ main:1263 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 15:09:54 [ main:1263 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 15:09:54 [ main:1263 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 15:09:54 [ main:1353 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 15:09:54 [ main:1354 ] - [ INFO ] Root WebApplicationContext: initialization completed in 831 ms
+2022-10-06 15:09:55 [ main:1868 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 15:09:55 [ main:1930 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 15:09:55 [ main:1943 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 15:09:55 [ main:1951 ] - [ INFO ] Started DemoApplication in 1.823 seconds (JVM running for 2.724)
+2022-10-06 15:09:59 [ http-nio-8090-exec-1:5638 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 15:09:59 [ http-nio-8090-exec-1:5638 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 15:09:59 [ http-nio-8090-exec-1:5639 ] - [ INFO ] Completed initialization in 1 ms
+2022-10-06 15:09:59 [ http-nio-8090-exec-1:5686 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 15:09:59 [ http-nio-8090-exec-1:5906 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 15:12:32 [ HikariPool-1 housekeeper:159082 ] - [ WARN ] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m3s175ms710µs700ns).
+2022-10-06 15:12:33 [ SpringApplicationShutdownHook:159524 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 15:12:33 [ SpringApplicationShutdownHook:159531 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 15:12:37 [ main:406 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 1464 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 15:12:37 [ main:407 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 15:12:37 [ main:1093 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 15:12:37 [ main:1099 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 15:12:37 [ main:1099 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 15:12:37 [ main:1100 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 15:12:38 [ main:1173 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 15:12:38 [ main:1173 ] - [ INFO ] Root WebApplicationContext: initialization completed in 735 ms
+2022-10-06 15:12:38 [ main:1566 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 15:12:38 [ main:1619 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 15:12:38 [ main:1630 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 15:12:38 [ main:1637 ] - [ INFO ] Started DemoApplication in 1.533 seconds (JVM running for 2.272)
+2022-10-06 15:12:44 [ http-nio-8090-exec-1:7286 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 15:12:44 [ http-nio-8090-exec-1:7287 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 15:12:44 [ http-nio-8090-exec-1:7287 ] - [ INFO ] Completed initialization in 0 ms
+2022-10-06 15:12:44 [ http-nio-8090-exec-2:7328 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 15:12:44 [ http-nio-8090-exec-2:7515 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 15:13:06 [ SpringApplicationShutdownHook:29374 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 15:13:06 [ SpringApplicationShutdownHook:29381 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 15:13:10 [ main:412 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 16400 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 15:13:10 [ main:414 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 15:13:11 [ main:1106 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 15:13:11 [ main:1111 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 15:13:11 [ main:1112 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 15:13:11 [ main:1112 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 15:13:11 [ main:1193 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 15:13:11 [ main:1193 ] - [ INFO ] Root WebApplicationContext: initialization completed in 747 ms
+2022-10-06 15:13:11 [ main:1597 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 15:13:11 [ main:1657 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 15:13:11 [ main:1669 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 15:13:11 [ main:1676 ] - [ INFO ] Started DemoApplication in 1.568 seconds (JVM running for 2.318)
+2022-10-06 15:13:32 [ main:441 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 1920 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 15:13:32 [ main:443 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 15:13:33 [ main:1154 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 15:13:33 [ main:1161 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 15:13:33 [ main:1161 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 15:13:33 [ main:1161 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 15:13:33 [ main:1242 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 15:13:33 [ main:1242 ] - [ INFO ] Root WebApplicationContext: initialization completed in 763 ms
+2022-10-06 15:13:33 [ main:1645 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 15:13:33 [ main:1698 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 15:13:33 [ main:1709 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 15:13:33 [ main:1716 ] - [ INFO ] Started DemoApplication in 1.61 seconds (JVM running for 2.355)
+2022-10-06 15:13:36 [ http-nio-8090-exec-1:4406 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 15:13:36 [ http-nio-8090-exec-1:4406 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 15:13:36 [ http-nio-8090-exec-1:4407 ] - [ INFO ] Completed initialization in 1 ms
+2022-10-06 15:13:36 [ http-nio-8090-exec-2:4448 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 15:13:36 [ http-nio-8090-exec-2:4639 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 15:15:35 [ SpringApplicationShutdownHook:123243 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 15:15:35 [ SpringApplicationShutdownHook:123249 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 15:15:38 [ main:504 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 9856 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 15:15:38 [ main:507 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 15:15:39 [ main:1330 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 15:15:39 [ main:1337 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 15:15:39 [ main:1338 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 15:15:39 [ main:1338 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 15:15:39 [ main:1429 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 15:15:39 [ main:1430 ] - [ INFO ] Root WebApplicationContext: initialization completed in 880 ms
+2022-10-06 15:15:39 [ main:1964 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 15:15:39 [ main:2033 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 15:15:39 [ main:2048 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 15:15:39 [ main:2056 ] - [ INFO ] Started DemoApplication in 1.929 seconds (JVM running for 2.769)
+2022-10-06 15:15:42 [ http-nio-8090-exec-1:4226 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 15:15:42 [ http-nio-8090-exec-1:4226 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 15:15:42 [ http-nio-8090-exec-1:4227 ] - [ INFO ] Completed initialization in 1 ms
+2022-10-06 15:15:42 [ http-nio-8090-exec-2:4275 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 15:15:42 [ http-nio-8090-exec-2:4494 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 15:16:08 [ HikariPool-1 housekeeper:30427 ] - [ WARN ] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=53s600ms754µs500ns).
+2022-10-06 15:31:16 [ HikariPool-1 housekeeper:938957 ] - [ WARN ] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m10s862ms298µs800ns).
+2022-10-06 15:31:17 [ SpringApplicationShutdownHook:939259 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 15:31:17 [ SpringApplicationShutdownHook:939271 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 15:31:22 [ main:421 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 2000 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 15:31:22 [ main:424 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 15:31:22 [ main:1135 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 15:31:22 [ main:1141 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 15:31:22 [ main:1141 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 15:31:22 [ main:1141 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 15:31:22 [ main:1218 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 15:31:22 [ main:1218 ] - [ INFO ] Root WebApplicationContext: initialization completed in 747 ms
+2022-10-06 15:31:23 [ main:1637 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 15:31:23 [ main:1690 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 15:31:23 [ main:1702 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 15:31:23 [ main:1709 ] - [ INFO ] Started DemoApplication in 1.601 seconds (JVM running for 2.381)
+2022-10-06 15:31:26 [ http-nio-8090-exec-1:4631 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 15:31:26 [ http-nio-8090-exec-1:4631 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 15:31:26 [ http-nio-8090-exec-1:4632 ] - [ INFO ] Completed initialization in 1 ms
+2022-10-06 15:31:26 [ http-nio-8090-exec-2:4673 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 15:31:26 [ http-nio-8090-exec-2:4864 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 15:35:05 [ SpringApplicationShutdownHook:224190 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 15:35:05 [ SpringApplicationShutdownHook:224197 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 15:35:10 [ main:513 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 12096 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 15:35:10 [ main:515 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 15:35:11 [ main:1348 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 15:35:11 [ main:1356 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 15:35:11 [ main:1356 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 15:35:11 [ main:1357 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 15:35:11 [ main:1447 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 15:35:11 [ main:1447 ] - [ INFO ] Root WebApplicationContext: initialization completed in 896 ms
+2022-10-06 15:35:11 [ main:1940 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 15:35:11 [ main:2001 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 15:35:11 [ main:2014 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 15:35:11 [ main:2022 ] - [ INFO ] Started DemoApplication in 1.89 seconds (JVM running for 2.834)
+2022-10-06 15:35:15 [ http-nio-8090-exec-1:5792 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 15:35:15 [ http-nio-8090-exec-1:5793 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 15:35:15 [ http-nio-8090-exec-1:5793 ] - [ INFO ] Completed initialization in 0 ms
+2022-10-06 15:35:15 [ http-nio-8090-exec-2:5844 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 15:35:15 [ http-nio-8090-exec-2:6093 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 15:35:38 [ SpringApplicationShutdownHook:28512 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 15:35:38 [ SpringApplicationShutdownHook:28520 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 15:35:42 [ main:493 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 11484 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 15:35:42 [ main:495 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 15:35:43 [ main:1317 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 15:35:43 [ main:1325 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 15:35:43 [ main:1325 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 15:35:43 [ main:1325 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 15:35:43 [ main:1415 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 15:35:43 [ main:1415 ] - [ INFO ] Root WebApplicationContext: initialization completed in 884 ms
+2022-10-06 15:35:43 [ main:1904 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 15:35:43 [ main:1963 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 15:35:43 [ main:1978 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 15:35:43 [ main:1985 ] - [ INFO ] Started DemoApplication in 1.856 seconds (JVM running for 2.708)
+2022-10-06 15:35:47 [ main:414 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 16972 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 15:35:47 [ main:416 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 15:35:47 [ main:1082 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 15:35:47 [ main:1087 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 15:35:47 [ main:1088 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 15:35:47 [ main:1088 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 15:35:48 [ main:1162 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 15:35:48 [ main:1163 ] - [ INFO ] Root WebApplicationContext: initialization completed in 717 ms
+2022-10-06 15:35:48 [ main:1549 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 15:35:48 [ main:1601 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 15:35:48 [ main:1613 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 15:35:48 [ main:1620 ] - [ INFO ] Started DemoApplication in 1.509 seconds (JVM running for 2.296)
+2022-10-06 15:35:52 [ http-nio-8090-exec-1:6061 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 15:35:52 [ http-nio-8090-exec-1:6061 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 15:35:52 [ http-nio-8090-exec-1:6062 ] - [ INFO ] Completed initialization in 1 ms
+2022-10-06 15:35:52 [ http-nio-8090-exec-2:6103 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 15:35:53 [ http-nio-8090-exec-2:6310 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 15:35:58 [ SpringApplicationShutdownHook:11312 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 15:35:58 [ SpringApplicationShutdownHook:11319 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 15:36:00 [ main:511 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 16932 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 15:36:00 [ main:513 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 15:36:01 [ main:1295 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 15:36:01 [ main:1302 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 15:36:01 [ main:1302 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 15:36:01 [ main:1302 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 15:36:01 [ main:1386 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 15:36:01 [ main:1386 ] - [ INFO ] Root WebApplicationContext: initialization completed in 836 ms
+2022-10-06 15:36:02 [ main:1892 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 15:36:02 [ main:1952 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 15:36:02 [ main:1965 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 15:36:02 [ main:1973 ] - [ INFO ] Started DemoApplication in 1.842 seconds (JVM running for 2.698)
+2022-10-06 15:36:33 [ http-nio-8090-exec-1:33469 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 15:36:33 [ http-nio-8090-exec-1:33469 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 15:36:33 [ http-nio-8090-exec-1:33470 ] - [ INFO ] Completed initialization in 1 ms
+2022-10-06 15:36:38 [ http-nio-8090-exec-2:38172 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 15:36:38 [ http-nio-8090-exec-2:38392 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 15:36:41 [ SpringApplicationShutdownHook:41247 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 15:36:41 [ SpringApplicationShutdownHook:41268 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 15:36:44 [ main:536 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 14836 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 15:36:44 [ main:538 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 15:36:45 [ main:1354 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 15:36:45 [ main:1361 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 15:36:45 [ main:1361 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 15:36:45 [ main:1361 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 15:36:45 [ main:1452 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 15:36:45 [ main:1453 ] - [ INFO ] Root WebApplicationContext: initialization completed in 881 ms
+2022-10-06 15:36:45 [ main:1985 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 15:36:45 [ main:2050 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 15:36:45 [ main:2065 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 15:36:45 [ main:2072 ] - [ INFO ] Started DemoApplication in 1.919 seconds (JVM running for 2.913)
+2022-10-06 15:36:46 [ http-nio-8090-exec-1:2525 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 15:36:46 [ http-nio-8090-exec-1:2525 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 15:36:46 [ http-nio-8090-exec-1:2526 ] - [ INFO ] Completed initialization in 1 ms
+2022-10-06 15:36:50 [ http-nio-8090-exec-1:6761 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 15:36:51 [ http-nio-8090-exec-1:8030 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 15:36:55 [ SpringApplicationShutdownHook:11378 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 15:36:55 [ SpringApplicationShutdownHook:11384 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 15:36:58 [ main:406 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 9188 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 15:36:58 [ main:408 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 15:36:59 [ main:1100 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 15:36:59 [ main:1106 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 15:36:59 [ main:1106 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 15:36:59 [ main:1106 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 15:36:59 [ main:1185 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 15:36:59 [ main:1185 ] - [ INFO ] Root WebApplicationContext: initialization completed in 743 ms
+2022-10-06 15:36:59 [ main:1575 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 15:36:59 [ main:1627 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 15:36:59 [ main:1638 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 15:36:59 [ main:1645 ] - [ INFO ] Started DemoApplication in 1.536 seconds (JVM running for 2.348)
+2022-10-06 15:37:07 [ http-nio-8090-exec-1:9019 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 15:37:07 [ http-nio-8090-exec-1:9020 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 15:37:07 [ http-nio-8090-exec-1:9020 ] - [ INFO ] Completed initialization in 0 ms
+2022-10-06 15:37:07 [ http-nio-8090-exec-2:9061 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 15:37:07 [ http-nio-8090-exec-2:9257 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 15:37:26 [ SpringApplicationShutdownHook:27889 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 15:37:26 [ SpringApplicationShutdownHook:27896 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 15:37:28 [ main:515 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 15248 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 15:37:28 [ main:517 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 15:37:29 [ main:1294 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 15:37:29 [ main:1301 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 15:37:29 [ main:1301 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 15:37:29 [ main:1301 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 15:37:29 [ main:1384 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 15:37:29 [ main:1385 ] - [ INFO ] Root WebApplicationContext: initialization completed in 832 ms
+2022-10-06 15:37:29 [ main:1883 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 15:37:29 [ main:1945 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 15:37:29 [ main:1959 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 15:37:29 [ main:1966 ] - [ INFO ] Started DemoApplication in 1.826 seconds (JVM running for 2.702)
+2022-10-06 15:41:38 [ http-nio-8090-exec-1:250588 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 15:41:38 [ http-nio-8090-exec-1:250588 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 15:41:38 [ http-nio-8090-exec-1:250589 ] - [ INFO ] Completed initialization in 0 ms
+2022-10-06 15:42:07 [ http-nio-8090-exec-1:279814 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 15:42:07 [ http-nio-8090-exec-1:280034 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 15:42:07 [ SpringApplicationShutdownHook:280208 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 15:42:07 [ SpringApplicationShutdownHook:280220 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 15:42:10 [ main:495 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 1464 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 15:42:10 [ main:497 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 15:42:11 [ main:1270 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 15:42:11 [ main:1277 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 15:42:11 [ main:1277 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 15:42:11 [ main:1277 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 15:42:11 [ main:1361 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 15:42:11 [ main:1361 ] - [ INFO ] Root WebApplicationContext: initialization completed in 830 ms
+2022-10-06 15:42:12 [ main:1861 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 15:42:12 [ main:1928 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 15:42:12 [ main:1943 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 15:42:12 [ main:1950 ] - [ INFO ] Started DemoApplication in 1.815 seconds (JVM running for 2.674)
+2022-10-06 15:42:22 [ http-nio-8090-exec-1:12129 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 15:42:22 [ http-nio-8090-exec-1:12129 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 15:42:22 [ http-nio-8090-exec-1:12130 ] - [ INFO ] Completed initialization in 1 ms
+2022-10-06 15:42:22 [ http-nio-8090-exec-2:12179 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 15:42:22 [ http-nio-8090-exec-2:12402 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 15:47:28 [ HikariPool-1 housekeeper:318301 ] - [ WARN ] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=57s14ms226µs400ns).
+2022-10-06 15:47:28 [ SpringApplicationShutdownHook:318606 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 15:47:29 [ SpringApplicationShutdownHook:318613 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 15:47:33 [ main:407 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 5740 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 15:47:33 [ main:409 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 15:47:33 [ main:1077 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 15:47:33 [ main:1083 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 15:47:33 [ main:1083 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 15:47:33 [ main:1083 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 15:47:34 [ main:1161 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 15:47:34 [ main:1161 ] - [ INFO ] Root WebApplicationContext: initialization completed in 722 ms
+2022-10-06 15:47:34 [ main:1567 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 15:47:34 [ main:1627 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 15:47:34 [ main:1640 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 15:47:34 [ main:1648 ] - [ INFO ] Started DemoApplication in 1.544 seconds (JVM running for 2.322)
+2022-10-06 15:47:41 [ http-nio-8090-exec-1:9037 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 15:47:41 [ http-nio-8090-exec-1:9037 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 15:47:41 [ http-nio-8090-exec-1:9038 ] - [ INFO ] Completed initialization in 1 ms
+2022-10-06 15:47:41 [ http-nio-8090-exec-2:9078 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 15:47:42 [ http-nio-8090-exec-2:9273 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 16:15:05 [ SpringApplicationShutdownHook:1652652 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 16:15:05 [ SpringApplicationShutdownHook:1652657 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 16:15:10 [ main:529 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 17916 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 16:15:10 [ main:531 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 16:15:11 [ main:1325 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 16:15:11 [ main:1332 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 16:15:11 [ main:1332 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 16:15:11 [ main:1332 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 16:15:11 [ main:1419 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 16:15:11 [ main:1419 ] - [ INFO ] Root WebApplicationContext: initialization completed in 850 ms
+2022-10-06 16:15:11 [ main:1968 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 16:15:11 [ main:2030 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 16:15:11 [ main:2045 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 16:15:11 [ main:2052 ] - [ INFO ] Started DemoApplication in 1.919 seconds (JVM running for 2.939)
+2022-10-06 16:15:14 [ http-nio-8090-exec-1:5208 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 16:15:14 [ http-nio-8090-exec-1:5208 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 16:15:14 [ http-nio-8090-exec-1:5208 ] - [ INFO ] Completed initialization in 0 ms
+2022-10-06 16:15:15 [ http-nio-8090-exec-2:5255 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 16:15:15 [ http-nio-8090-exec-2:5482 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 16:23:52 [ HikariPool-1 housekeeper:522446 ] - [ WARN ] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m6s964ms150µs200ns).
+2022-10-06 16:23:52 [ SpringApplicationShutdownHook:523042 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 16:23:52 [ SpringApplicationShutdownHook:523057 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 17:12:33 [ main:539 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 1572 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 17:12:33 [ main:542 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 17:12:34 [ main:1426 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 17:12:34 [ main:1436 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 17:12:34 [ main:1436 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 17:12:34 [ main:1436 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 17:12:34 [ main:1539 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 17:12:34 [ main:1539 ] - [ INFO ] Root WebApplicationContext: initialization completed in 958 ms
+2022-10-06 17:12:35 [ main:2125 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 17:12:35 [ main:2189 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 17:12:35 [ main:2203 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 17:12:35 [ main:2211 ] - [ INFO ] Started DemoApplication in 2.064 seconds (JVM running for 3.558)
+2022-10-06 17:13:18 [ http-nio-8090-exec-1:45164 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 17:13:18 [ http-nio-8090-exec-1:45164 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 17:13:18 [ http-nio-8090-exec-1:45165 ] - [ INFO ] Completed initialization in 1 ms
+2022-10-06 17:13:18 [ http-nio-8090-exec-1:45260 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 17:13:18 [ http-nio-8090-exec-1:45560 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 17:16:58 [ HikariPool-1 housekeeper:265258 ] - [ WARN ] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m39s596ms679µs800ns).
+2022-10-06 17:16:58 [ SpringApplicationShutdownHook:265607 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 17:16:58 [ SpringApplicationShutdownHook:265623 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 17:17:03 [ main:522 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 5060 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 17:17:03 [ main:524 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 17:17:04 [ main:1337 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 17:17:04 [ main:1344 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 17:17:04 [ main:1345 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 17:17:04 [ main:1345 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 17:17:04 [ main:1431 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 17:17:04 [ main:1431 ] - [ INFO ] Root WebApplicationContext: initialization completed in 871 ms
+2022-10-06 17:17:04 [ main:1939 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 17:17:04 [ main:2006 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 17:17:04 [ main:2021 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 17:17:04 [ main:2028 ] - [ INFO ] Started DemoApplication in 1.892 seconds (JVM running for 2.812)
+2022-10-06 17:18:06 [ main:508 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 11764 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 17:18:06 [ main:510 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 17:18:06 [ main:1284 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 17:18:06 [ main:1290 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 17:18:06 [ main:1291 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 17:18:06 [ main:1291 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 17:18:07 [ main:1372 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 17:18:07 [ main:1372 ] - [ INFO ] Root WebApplicationContext: initialization completed in 826 ms
+2022-10-06 17:18:07 [ main:1896 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 17:18:07 [ main:1956 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 17:18:07 [ main:1970 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 17:18:07 [ main:1978 ] - [ INFO ] Started DemoApplication in 1.844 seconds (JVM running for 2.666)
+2022-10-06 17:18:11 [ http-nio-8090-exec-1:5457 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 17:18:11 [ http-nio-8090-exec-1:5457 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 17:18:11 [ http-nio-8090-exec-1:5457 ] - [ INFO ] Completed initialization in 0 ms
+2022-10-06 17:18:11 [ http-nio-8090-exec-2:5504 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 17:18:11 [ http-nio-8090-exec-2:5724 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 17:27:43 [ HikariPool-1 housekeeper:577789 ] - [ WARN ] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m2s63ms887µs100ns).
+2022-10-06 17:27:43 [ SpringApplicationShutdownHook:578094 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 17:27:43 [ SpringApplicationShutdownHook:578100 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 17:27:46 [ main:425 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 16300 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 17:27:46 [ main:426 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 17:27:47 [ main:1114 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 17:27:47 [ main:1120 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 17:27:47 [ main:1121 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 17:27:47 [ main:1121 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 17:27:47 [ main:1196 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 17:27:47 [ main:1196 ] - [ INFO ] Root WebApplicationContext: initialization completed in 740 ms
+2022-10-06 17:27:48 [ main:1627 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 17:27:48 [ main:1684 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 17:27:48 [ main:1696 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 17:27:48 [ main:1703 ] - [ INFO ] Started DemoApplication in 1.593 seconds (JVM running for 2.372)
+2022-10-06 17:27:52 [ http-nio-8090-exec-1:6012 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 17:27:52 [ http-nio-8090-exec-1:6012 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 17:27:52 [ http-nio-8090-exec-1:6013 ] - [ INFO ] Completed initialization in 1 ms
+2022-10-06 17:27:52 [ http-nio-8090-exec-2:6053 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 17:27:52 [ http-nio-8090-exec-2:6245 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 20:33:53 [ http-nio-8090-exec-2:11166614 ] - [ WARN ] Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'oldid' for method parameter type String is not present]
+2022-10-06 20:33:58 [ http-nio-8090-exec-4:11171714 ] - [ WARN ] Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'oldid' for method parameter type String is not present]
+2022-10-06 20:36:36 [ http-nio-8090-exec-3:11329911 ] - [ WARN ] Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'oldid' for method parameter type String is not present]
+2022-10-06 20:44:43 [ SpringApplicationShutdownHook:11817069 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 20:44:43 [ SpringApplicationShutdownHook:11817073 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 20:44:48 [ main:549 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 3184 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 20:44:48 [ main:551 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 20:44:49 [ main:1357 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 20:44:49 [ main:1363 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 20:44:49 [ main:1364 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 20:44:49 [ main:1364 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 20:44:49 [ main:1446 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 20:44:49 [ main:1446 ] - [ INFO ] Root WebApplicationContext: initialization completed in 861 ms
+2022-10-06 20:44:49 [ main:1940 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 20:44:49 [ main:2003 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 20:44:49 [ main:2016 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 20:44:49 [ main:2024 ] - [ INFO ] Started DemoApplication in 1.866 seconds (JVM running for 2.834)
+2022-10-06 20:45:00 [ http-nio-8090-exec-1:13204 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 20:45:00 [ http-nio-8090-exec-1:13204 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 20:45:00 [ http-nio-8090-exec-1:13205 ] - [ INFO ] Completed initialization in 1 ms
+2022-10-06 20:45:01 [ http-nio-8090-exec-1:13244 ] - [ WARN ] Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'admid' for method parameter type String is not present]
+2022-10-06 20:46:13 [ http-nio-8090-exec-5:85424 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 20:46:13 [ http-nio-8090-exec-5:85646 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 20:46:21 [ SpringApplicationShutdownHook:94172 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 20:46:21 [ SpringApplicationShutdownHook:94202 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 20:46:25 [ main:485 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 17384 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 20:46:25 [ main:487 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 20:46:25 [ main:1287 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 20:46:25 [ main:1294 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 20:46:25 [ main:1295 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 20:46:25 [ main:1295 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 20:46:26 [ main:1378 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 20:46:26 [ main:1378 ] - [ INFO ] Root WebApplicationContext: initialization completed in 848 ms
+2022-10-06 20:46:26 [ main:1895 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 20:46:26 [ main:1958 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 20:46:26 [ main:1972 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 20:46:26 [ main:1980 ] - [ INFO ] Started DemoApplication in 1.852 seconds (JVM running for 2.771)
+2022-10-06 20:46:29 [ http-nio-8090-exec-1:4561 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 20:46:29 [ http-nio-8090-exec-1:4561 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 20:46:29 [ http-nio-8090-exec-1:4562 ] - [ INFO ] Completed initialization in 1 ms
+2022-10-06 20:46:29 [ http-nio-8090-exec-2:4610 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 20:46:29 [ http-nio-8090-exec-2:4831 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 20:46:41 [ SpringApplicationShutdownHook:16447 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 20:46:41 [ SpringApplicationShutdownHook:16453 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 20:46:43 [ main:521 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 564 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 20:46:43 [ main:523 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 20:46:44 [ main:1311 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 20:46:44 [ main:1318 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 20:46:44 [ main:1318 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 20:46:44 [ main:1319 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 20:46:44 [ main:1405 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 20:46:44 [ main:1405 ] - [ INFO ] Root WebApplicationContext: initialization completed in 845 ms
+2022-10-06 20:46:44 [ main:1924 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 20:46:44 [ main:1985 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 20:46:44 [ main:1998 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 20:46:44 [ main:2006 ] - [ INFO ] Started DemoApplication in 1.843 seconds (JVM running for 2.799)
+2022-10-06 20:47:23 [ main:511 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 12244 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 20:47:23 [ main:513 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 20:47:24 [ main:1281 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 20:47:24 [ main:1288 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 20:47:24 [ main:1288 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 20:47:24 [ main:1288 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 20:47:24 [ main:1375 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 20:47:24 [ main:1375 ] - [ INFO ] Root WebApplicationContext: initialization completed in 827 ms
+2022-10-06 20:47:24 [ main:1885 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 20:47:24 [ main:1956 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 20:47:24 [ main:1971 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 20:47:24 [ main:1980 ] - [ INFO ] Started DemoApplication in 1.846 seconds (JVM running for 2.752)
+2022-10-06 20:47:54 [ http-nio-8090-exec-1:31216 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 20:47:54 [ http-nio-8090-exec-1:31216 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 20:47:54 [ http-nio-8090-exec-1:31217 ] - [ INFO ] Completed initialization in 1 ms
+2022-10-06 20:47:54 [ http-nio-8090-exec-2:31266 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 20:47:54 [ http-nio-8090-exec-2:31492 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 20:57:52 [ HikariPool-1 housekeeper:630019 ] - [ WARN ] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m58s424ms274µs900ns).
+2022-10-06 20:57:53 [ SpringApplicationShutdownHook:630324 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 20:57:53 [ SpringApplicationShutdownHook:630330 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 20:57:58 [ main:431 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 9240 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 20:57:58 [ main:433 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 20:57:59 [ main:1184 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 20:57:59 [ main:1190 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 20:57:59 [ main:1191 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 20:57:59 [ main:1191 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 20:57:59 [ main:1269 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 20:57:59 [ main:1270 ] - [ INFO ] Root WebApplicationContext: initialization completed in 804 ms
+2022-10-06 20:57:59 [ main:1700 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 20:57:59 [ main:1761 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 20:57:59 [ main:1774 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 20:57:59 [ main:1781 ] - [ INFO ] Started DemoApplication in 1.674 seconds (JVM running for 2.413)
+2022-10-06 20:58:03 [ http-nio-8090-exec-1:4889 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 20:58:03 [ http-nio-8090-exec-1:4890 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 20:58:03 [ http-nio-8090-exec-1:4890 ] - [ INFO ] Completed initialization in 0 ms
+2022-10-06 20:58:03 [ http-nio-8090-exec-2:4934 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 20:58:03 [ http-nio-8090-exec-2:5133 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 21:04:26 [ SpringApplicationShutdownHook:388829 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 21:04:26 [ SpringApplicationShutdownHook:388834 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-10-06 21:04:29 [ main:410 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 19264 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-10-06 21:04:29 [ main:412 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 21:04:30 [ main:1096 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-10-06 21:04:30 [ main:1102 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-10-06 21:04:30 [ main:1103 ] - [ INFO ] Starting service [Tomcat]
+2022-10-06 21:04:30 [ main:1103 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-10-06 21:04:30 [ main:1178 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-10-06 21:04:30 [ main:1178 ] - [ INFO ] Root WebApplicationContext: initialization completed in 730 ms
+2022-10-06 21:04:30 [ main:1579 ] - [ WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-10-06 21:04:30 [ main:1630 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-10-06 21:04:30 [ main:1642 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-10-06 21:04:30 [ main:1650 ] - [ INFO ] Started DemoApplication in 1.544 seconds (JVM running for 2.372)
+2022-10-06 21:04:38 [ http-nio-8090-exec-1:9275 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 21:04:38 [ http-nio-8090-exec-1:9275 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-10-06 21:04:38 [ http-nio-8090-exec-1:9276 ] - [ INFO ] Completed initialization in 1 ms
+2022-10-06 21:04:38 [ http-nio-8090-exec-2:9354 ] - [ INFO ] HikariPool-1 - Starting...
+2022-10-06 21:04:38 [ http-nio-8090-exec-2:9558 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-10-06 21:25:15 [ SpringApplicationShutdownHook:1245935 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-10-06 21:25:15 [ SpringApplicationShutdownHook:1245950 ] - [ INFO ] HikariPool-1 - Shutdown completed.

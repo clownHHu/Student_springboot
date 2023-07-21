@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.example.demo.mapper.AdminMapper" >
+    <select id="selectAdminById" parameterType="string" resultType="com.example.demo.model.Admin">
+        select * from admin where id=#{id}
+    </select>
+    <select id="selectRelationById" parameterType="string" resultType="com.example.demo.model.Relation">
+        select * from relation where admid=#{id}
+    </select>
+    <select id="selectTeacherByCollege" parameterType="string" resultType="com.example.demo.model.Teacher">
+        select * from teacher where college=#{college}
+    </select>
+    <insert id="insertLogin" parameterType="com.example.demo.model.Login">
+        insert into login(id, passwd,status) values(#{login.id}, #{login.passwd}, #{login.status})
+    </insert>
+    <insert id="insertRelation" parameterType="com.example.demo.model.Relation">
+        insert into relation(stuid, teaid,admid) values(#{relation.stuid}, #{relation.teaid}, #{relation.admid})
+    </insert>
+    <insert id="addCourse" parameterType="com.example.demo.model.Score">
+        insert into score(studentid, courseterm,score,coursename) values(#{score.studentid}, #{score.courseterm}, #{score.score},#{score.coursename})
+    </insert>
+    <insert id="insertStudent" parameterType="com.example.demo.model.Student">
+        insert into student(id, name,college) values(#{student.id}, #{student.name}, #{student.college})
+    </insert>
+    <select id="selectLoginsByStatus" parameterType="string" resultType="com.example.demo.model.Login">
+        select * from login where status=#{status}
+    </select>
+    <select id="selectRelations" resultType="com.example.demo.model.Relation">
+        select * from relation
+    </select>
+    <select id="selectStudents" resultType="com.example.demo.model.Student">
+        select * from student
+    </select>
+    <select id="selectStudentsByTrain" resultType="com.example.demo.model.Student">
+        select * from student where college=#{train.college} and classn=#{train.classn}
+    </select>
+    <select id="selectTrainsById" resultType="com.example.demo.model.Train">
+        select * from train where admid=#{id}
+    </select>
+    <select id="selectCoursesByCollege" resultType="com.example.demo.model.Course">
+        select * from course where college=#{college}
+    </select>
+    <select id="selectTrainsByCM" resultType="com.example.demo.model.Train">
+        select * from train where major=#{major} and classn=#{classn}
+    </select>
+    <select id="selectScoresByCourse" resultType="com.example.demo.model.Score">
+        select * from score where coursename=#{coursename}
+    </select>
+    <delete id="deleteRelationById" parameterType="string">
+        delete from relation where stuid=#{id}
+    </delete>
+    <delete id="deleteLoginById" parameterType="string">
+        delete from login where id=#{id}
+    </delete>
+    <update id="modifyCourse">
+        update course set num=#{nums} where name=#{name} and teacher=#{teacher}
+    </update>
+    <update id="modifyStudent">
+        update student set name=#{student.name},phone=#{student.phone} where id=#{student.id}
+    </update>
+    <update id="modifyTrain">
+        update train set num=#{train.num} where admid=#{train.admid} and classn=#{train.classn}
+    </update>
+    <update id="modifyRelationById">
+        update relation set stuid=#{student.id} where stuid=#{oldid}
+    </update>
+    <update id="modifyRelation">
+        update relation set teaid=#{relation.teaid} where stuid=#{relation.stuid}
+    </update>
+    <update id="removeClassn">
+        update student set classn=null where id=#{student.id}
+    </update>
+    <delete id="removeCourse">
+        delete from score where studentid=#{id} and coursename=#{name}
+    </delete>
+    <update id="addClassn">
+        update student set classn=#{train.classn},major=#{train.major},train=#{train.path} where id=#{id}
+    </update>
+    <update id="modifyStudentId">
+        update student set id=#{student.id},name=#{student.name},phone=#{student.phone} where id=#{oldid}
+    </update>
+    <update id="modifyAchStudentId">
+        update achieve set id=#{student.id} where id=#{oldid}
+    </update>
+    <update id="modifyLogStudentId">
+        update login set id=#{student.id},passwd=#{student.id} where id=#{oldid}
+    </update>
+
+</mapper>

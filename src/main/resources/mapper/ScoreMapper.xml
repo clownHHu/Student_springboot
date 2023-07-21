@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<!-- 映射的mapper层-->
+<mapper namespace="com.example.demo.mapper.ScoreMapper">
+    <select id="selectScoreByTI" resultType="com.example.demo.model.Score">
+        select * from score where studentid=#{id} and courseterm=#{term}
+    </select>
+    <select id="getAllScore" resultType="com.example.demo.model.Score">
+        select * from score where studentid=#{id}
+    </select>
+    <select id="selectScoreByNI" resultType="com.example.demo.model.Score">
+        select * from score where studentid=#{id} and coursename=#{coursename}
+    </select>
+
+    <insert id="insertScore" parameterType="com.example.demo.model.Score">
+        insert into score(studentid, courseterm,score,coursename) values(#{score.studentid}, #{score.courseterm}, #{score.score}, #{score.coursename})
+    </insert>
+
+    <delete id="deleteScoreByNI">
+        delete from score where studentid = #{id} AND coursename= #{coursename}
+    </delete>
+    <select id="selectScoreByName" resultType="com.example.demo.model.Score">
+        select * from score where coursename=#{name}
+    </select>
+    <update id="modifyScore" parameterType="com.example.demo.model.Score" >
+        update score set score=#{score.score} where studentid=#{score.studentid} and coursename=#{score.coursename}
+    </update>
+</mapper>

@@ -1,0 +1,36 @@
+2022-06-15 00:46:49 [ main:484 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 10392 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-06-15 00:46:49 [ main:484 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-06-15 00:46:50 [ main:1234 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-06-15 00:46:50 [ main:1250 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-06-15 00:46:50 [ main:1250 ] - [ INFO ] Starting service [Tomcat]
+2022-06-15 00:46:50 [ main:1250 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-15 00:46:50 [ main:1343 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-06-15 00:46:50 [ main:1343 ] - [ INFO ] Root WebApplicationContext: initialization completed in 828 ms
+2022-06-15 00:46:50 [ main:1812 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-06-15 00:46:50 [ main:1828 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-06-15 00:46:50 [ main:1828 ] - [ INFO ] Started DemoApplication in 1.707 seconds (JVM running for 2.52)
+2022-06-15 00:49:10 [ http-nio-8090-exec-1:141146 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-15 00:49:10 [ http-nio-8090-exec-1:141146 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-06-15 00:49:10 [ http-nio-8090-exec-1:141147 ] - [ INFO ] Completed initialization in 1 ms
+2022-06-15 00:49:10 [ http-nio-8090-exec-1:141231 ] - [ INFO ] HikariPool-1 - Starting...
+2022-06-15 00:49:10 [ http-nio-8090-exec-1:141505 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-06-15 01:10:16 [ SpringApplicationShutdownHook:1407545 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-06-15 01:10:16 [ SpringApplicationShutdownHook:1407561 ] - [ INFO ] HikariPool-1 - Shutdown completed.
+2022-06-15 08:55:00 [ main:501 ] - [ INFO ] Starting DemoApplication using Java 1.8.0_332 on DESKTOP-VEBRSLS with PID 26816 (C:\Users\Clown\IdeaProjects\demo\target\classes started by Clown in C:\Users\Clown\IdeaProjects\demo)
+2022-06-15 08:55:00 [ main:501 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-06-15 08:55:01 [ main:1300 ] - [ INFO ] Tomcat initialized with port(s): 8090 (http)
+2022-06-15 08:55:01 [ main:1300 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8090"]
+2022-06-15 08:55:01 [ main:1300 ] - [ INFO ] Starting service [Tomcat]
+2022-06-15 08:55:01 [ main:1300 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-15 08:55:01 [ main:1394 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-06-15 08:55:01 [ main:1394 ] - [ INFO ] Root WebApplicationContext: initialization completed in 862 ms
+2022-06-15 08:55:01 [ main:1910 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8090"]
+2022-06-15 08:55:01 [ main:1925 ] - [ INFO ] Tomcat started on port(s): 8090 (http) with context path ''
+2022-06-15 08:55:01 [ main:1925 ] - [ INFO ] Started DemoApplication in 1.791 seconds (JVM running for 2.555)
+2022-06-15 09:01:56 [ http-nio-8090-exec-1:416570 ] - [ INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-15 09:01:56 [ http-nio-8090-exec-1:416570 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2022-06-15 09:01:56 [ http-nio-8090-exec-1:416571 ] - [ INFO ] Completed initialization in 1 ms
+2022-06-15 09:01:56 [ http-nio-8090-exec-1:416662 ] - [ INFO ] HikariPool-1 - Starting...
+2022-06-15 09:01:56 [ http-nio-8090-exec-1:416952 ] - [ INFO ] HikariPool-1 - Start completed.
+2022-06-15 10:02:13 [ SpringApplicationShutdownHook:4034092 ] - [ INFO ] HikariPool-1 - Shutdown initiated...
+2022-06-15 10:02:13 [ SpringApplicationShutdownHook:4034097 ] - [ INFO ] HikariPool-1 - Shutdown completed.

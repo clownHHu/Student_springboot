@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<!-- 映射的mapper层-->
+<mapper namespace="com.example.demo.mapper.CourseMapper">
+    <select id="selectCourseByTN" resultType="com.example.demo.model.Course">
+        select * from course where term=#{term} and name=#{name}
+    </select>
+    <select id="selectCourseByTerm" resultType="com.example.demo.model.Course">
+        select * from course where term=#{term}
+    </select>
+    <select id="selectCourseByName" resultType="com.example.demo.model.Course">
+        select * from course where teacher=#{name}
+    </select>
+    <select id="selectCourseByCourseName" resultType="com.example.demo.model.Course">
+        select * from course where name=#{name}
+    </select>
+    <update id="modifyContext">
+        update course set context=#{course.context} where name=#{course.name}
+    </update>
+    <select id="selectCourseByTeaName" resultType="com.example.demo.model.Course">
+        select * from course where name=#{name} and teacher=#{teacher}
+    </select>
+
+
+</mapper>

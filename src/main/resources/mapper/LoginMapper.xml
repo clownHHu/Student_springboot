@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<!-- 映射的mapper层-->
+<mapper namespace="com.example.demo.mapper.LoginMapper">
+    <select id="selectLoginById" parameterType="string" resultType="com.example.demo.model.Login">
+        select * from login where id=#{id}
+    </select>
+    <update id="modifyPasswdById" >
+        update login set passwd=#{password} where id=#{id}
+    </update>
+</mapper>
